@@ -20,7 +20,7 @@
             app:srcCompat="@drawable/swepup"
             tools:layout_editor_absoluteX="20dp"
             tools:layout_editor_absoluteY="856dp"
-            tools:ignore="MissingConstraints" />
+            tools:ignore="ContentDescription,MissingConstraints" />
 
         <ImageView
             android:id="@+id/imageView6"
@@ -29,14 +29,14 @@
             app:srcCompat="@drawable/loading"
             tools:layout_editor_absoluteX="184dp"
             tools:layout_editor_absoluteY="529dp"
-            tools:ignore="MissingConstraints" />
+            tools:ignore="ContentDescription,MissingConstraints" />
 
         <ImageView
             android:id="@+id/imageView5"
             android:layout_width="447dp"
             android:layout_height="177dp"
             app:srcCompat="@drawable/vector2"
-            tools:ignore="MissingConstraints"
+            tools:ignore="ContentDescription,MissingConstraints"
             tools:layout_editor_absoluteX="-18dp"
             tools:layout_editor_absoluteY="725dp" />
 
@@ -47,7 +47,7 @@
             app:srcCompat="@drawable/group90"
             tools:layout_editor_absoluteX="78dp"
             tools:layout_editor_absoluteY="260dp"
-            tools:ignore="MissingConstraints" />
+            tools:ignore="ContentDescription,MissingConstraints" />
 
         <ImageView
             android:id="@+id/imageView2"
@@ -56,7 +56,8 @@
             android:layout_marginStart="4dp"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:srcCompat="@drawable/vector1" />
+            app:srcCompat="@drawable/vector1"
+            tools:ignore="ContentDescription" />
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>

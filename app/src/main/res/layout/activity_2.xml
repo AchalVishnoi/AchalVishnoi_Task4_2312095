@@ -27,7 +27,7 @@
             app:srcCompat="@drawable/btnnext"
             tools:layout_editor_absoluteX="48dp"
             tools:layout_editor_absoluteY="740dp"
-            tools:ignore="MissingConstraints"
+            tools:ignore="ContentDescription,MissingConstraints"
 
             />
 
@@ -40,7 +40,7 @@
             app:layout_constraintStart_toStartOf="parent"
             app:srcCompat="@drawable/dotslider"
             tools:layout_editor_absoluteY="641dp"
-            tools:ignore="MissingConstraints" />
+            tools:ignore="ContentDescription,MissingConstraints" />
 
         <TextView
             android:id="@+id/textView4"
@@ -56,7 +56,7 @@
             tools:layout_editor_absoluteY="587dp"
 
 
-            tools:ignore="MissingConstraints" />
+            tools:ignore="HardcodedText,MissingConstraints" />
 
         <TextView
             android:id="@+id/textView3"
@@ -80,7 +80,7 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:srcCompat="@drawable/bottleofwaterbro1"
-            tools:ignore="MissingConstraints"
+            tools:ignore="ContentDescription,MissingConstraints"
 
             tools:layout_editor_absoluteY="144dp" />
 

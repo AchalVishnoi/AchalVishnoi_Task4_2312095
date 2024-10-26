@@ -19,7 +19,7 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:srcCompat="@drawable/icon"
             tools:layout_editor_absoluteY="57dp"
-            tools:ignore="MissingConstraints" />
+            tools:ignore="ContentDescription,MissingConstraints" />
 
         <ImageView
             android:id="@+id/imageView12"
@@ -29,7 +29,7 @@
             app:layout_constraintStart_toStartOf="parent"
             app:srcCompat="@drawable/chart"
             tools:layout_editor_absoluteY="356dp"
-            tools:ignore="MissingConstraints" />
+            tools:ignore="ContentDescription,MissingConstraints" />
 
         <ImageView
             android:id="@+id/imageView10"
@@ -39,6 +39,6 @@
             app:layout_constraintStart_toStartOf="parent"
             app:srcCompat="@drawable/commingsoon"
             tools:layout_editor_absoluteY="162dp"
-            tools:ignore="MissingConstraints" />
+            tools:ignore="ContentDescription,MissingConstraints" />
     </androidx.constraintlayout.widget.ConstraintLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
