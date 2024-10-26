@@ -29,9 +29,10 @@
             android:id="@+id/imageView11"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            app:srcCompat="@drawable/dotSlider2"
+            app:srcCompat="@drawable/dotslider2"
             tools:layout_editor_absoluteX="157dp"
-            tools:layout_editor_absoluteY="700dp" />
+            tools:layout_editor_absoluteY="700dp"
+            tools:ignore="MissingConstraints" />
 
         <ImageButton
             android:id="@+id/imageButton"
