@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "814798197938",
+    "project_id": "watertrackerr",
+    "storage_bucket": "watertrackerr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814798197938:android:40cc5c90ffa53db04ce5ab",
+        "android_client_info": {
+          "package_name": "com.example.watertracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAU-HC_WrgiKNthX_opOTS3bxc1_hjgQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
