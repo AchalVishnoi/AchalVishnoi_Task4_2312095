@@ -43,7 +43,6 @@
             tools:ignore="ContentDescription,MissingConstraints" />
 
         <TextView
-            android:id="@+id/textView4"
             android:layout_width="276dp"
             android:layout_height="43dp"
             android:text="Achieve your hydration goals with a simple tap!"
